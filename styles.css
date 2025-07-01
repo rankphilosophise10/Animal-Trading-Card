@@ -1,0 +1,37 @@
+.cat {
+    width: 300px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.animal {
+    text-align: center;
+}
+
+.facts {
+    font-style: italic;
+    }
+
+.label {
+    font-weight: bold;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.card {
+    border: dashed 3px brown;
+    padding: 15px;
+    width: 300px;
+    background-color:bisque;
+    box-shadow: 10px 10px 5px lightslategray;
+    box-sizing: content-box;
+}
+
+.inner-div {
+    border: dashed 3px brown;
+    padding: 15px;
+    background-color:beige
+}
